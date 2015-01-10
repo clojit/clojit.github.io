@@ -1,0 +1,20 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               clojit
+tagline:             'clojure compiler & vm'
+description:         'An attempt to build a virtual machine and just-in-time compiler for clojure.'
+url:                 https://clojit.github.io
+baseurl:             /
+paginate:            5
+
+# Custom vars
+version:             1.0.0
