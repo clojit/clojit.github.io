@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hallo World, Hallo Clojit
+title: Hello World, Hello Clojit
 ---
 
 
