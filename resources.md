@@ -8,16 +8,16 @@ title: Resources
 </p>
 
 <p>
-  There are many more resources that can not all be mentioned here, but we want to thank everybody that has worked, commented or donated to these projects. Thank you.
+  There are many more resources that can not all be mentioned here, but we want to thank everybody who has worked, commented or donated to these projects. Thank you.
 </p>
 
 <h3>Luajit</h3>
 
-<p> This fantasic project is our closes Ancestor, and without it, we would be nowwhere near where we are today. Our Architecture will be very simular, a (hopefully) fast interpreter combined with a single tracing jit.  </p>
+<p> This fantasic project is our closest ancestor, and without it, we would be nowwhere near where we are today. Our architecture will be very similar, a (hopefully) fast interpreter combined with a single tracing JIT.  </p>
 
 <p> On a more detailed level, we also look at LuaJit, for example our <a src="https://github.com/clojit/clojit-doc/blob/master/Bytecode%20Spec.md"> Bytecode </a> is very much inspired by <a href="http://wiki.luajit.org/Bytecode-2.0">  LuaJit Bytecode. </a> </p>
 
-<p> There is a lot left to devlop, and a lot left to learn from LuaJit. <p>
+<p> There is a lot left to devlope and a lot left to learn from LuaJit. <p>
 
 <ul>
   <li> <a href="http://luajit.org/"> The LuaJIT Project </a> </li>
@@ -28,7 +28,7 @@ title: Resources
 
 <p> The blogger Andy Wingo has many posts on JIT compilers and other usful matter. We regularly consult this blog for overviews of the current state of the art in JIT compilers and the details of the Guile VM. <p>
 
-<p> Here is a short list of usful links: <p>
+<p> Here is a short list of useful links: <p>
 
 <ul>
   <li> <a href="http://wingolog.org/archives/2011/05/18/value-representation-in-javascript-implementations"> value representation in javascript implementations </a> </li>
@@ -37,9 +37,9 @@ title: Resources
 
 <h3>lambdachine</h3>
 
-<p> Thomas Schilling had a very simular idea to ours, look at LuaJit and implment a functional language with that architecture. Specially usful is reading his PhD Thesis that goes over the inpmentation in some detail. <p>
+<p> Thomas Schilling had a very similar idea to ours, look at LuaJit and implment a functional language with that architecture. Specially useful is reading his PhD Thesis, that covers the architecture and implementation of lambdachine in some detail. <p>
 
-<p> Here is a short list of usful links: <p>
+<p> Here is a short list of useful links: <p>
 
 <ul>
   <li> <a href="https://github.com/nominolo/lambdachine"> lambdachine </a> </li>
@@ -48,7 +48,7 @@ title: Resources
 
 <h3>Servo Project</h3>
 
-<p> While the Servo Project is a web browser engine rather then a virtual maschine, they still face simular problems that we have too. The problems are mostly related to the Garbage Collector and the Rust language.  <p>
+<p> While the Servo Project is a web browser engine rather then a virtual maschine, they still face some of the same problems that we do. These problems are mostly related to the Garbage Collector and the Rust language.  <p>
 
 <ul>
   <li> <a href="https://blog.mozilla.org/research/2014/08/26/javascript-servos-only-garbage-collector/"> JavaScript: Servo’s only garbage collector </a> </li>
@@ -58,7 +58,7 @@ title: Resources
 
 <h3> Self Language </h3>
 
-<p> The Self langauge is where JIT compilers grew up. The early research is still relevant to everything we do. <p>
+<p> The Self langauge is where JIT compilers grew up. The early research is still relevant to everything we do. Especially the PhD theses of Craig Chambers and Urs Hölzle written during that research programm in the early 1990s. They still are a fantatstic read. <p>
 
 <ul>
   <li>
@@ -73,4 +73,4 @@ title: Resources
   </li>
 </ul>
 
-<p> (Note: If you cant find the first paper, contact us) </p>
+<p> (Note: If you can't find the first paper, contact us) </p>
