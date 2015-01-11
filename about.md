@@ -21,7 +21,7 @@ title: About
 </p>
 
 
-<h2> Who are the people behind this project? </h2>
+<h2>Who are the people behind this project? </h2>
 
 <p>
   <h3> Nick Zbinden aka nickik </h3>
