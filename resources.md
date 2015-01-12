@@ -15,6 +15,7 @@ On a more detailed level, we also look at LuaJit, for example our [Bytecode](htt
 
 There is a lot left to devlope and a lot left to learn from LuaJit.
 
+  - [LuaJIT 2.0 intellectual property disclosure and research opportunities](http://lua-users.org/lists/lua-l/2009-11/msg00089.html)
   - [The LuaJit Project](http://luajit.org/)
   - [The LuaJit Wiki](http://wiki.luajit.org/)
 
