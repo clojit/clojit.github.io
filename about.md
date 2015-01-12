@@ -23,6 +23,7 @@ My dayjob is working as a web developer and I'm currently working in Java, but I
 
    - E-Mail: [niklaus.zbinden@gmail.com](mailto:niklaus.zbinden@gmail.com)
    - PGP Fingerprint: `7230 4DB0 2130 9D19 539E FB55 8345 18EA 6250 4BDD`
+   - Check out all [Clojure](keybase.io/nickik)
 
 ### Sebastian "gandro" Wicki
 
