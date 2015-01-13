@@ -13,7 +13,7 @@ This fantasic project is our closest ancestor, and without it, we would be nowhe
 
 On a more detailed level, we also look at LuaJit, for example our [Bytecode](https://github.com/clojit/clojit-doc/blob/master/Bytecode%20Spec.md) is very much inspired by [LuaJit's Bytecode](http://wiki.luajit.org/Bytecode-2.0).
 
-There is a lot left to devlope and a lot left to learn from LuaJit.
+There is a lot left to develop and a lot left to learn from LuaJit.
 
   - [LuaJIT 2.0 intellectual property disclosure and research opportunities](http://lua-users.org/lists/lua-l/2009-11/msg00089.html)
   - [The LuaJit Project](http://luajit.org/)
